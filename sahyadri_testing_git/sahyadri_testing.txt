@@ -1,1 +1,3 @@
 I am sahyadri kotipalli and revising the lectures for practicing and mastering GIT.
+
+Git : Is a Distributed Version Control system
